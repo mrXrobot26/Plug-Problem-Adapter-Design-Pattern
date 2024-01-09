@@ -6,7 +6,7 @@
         {
             ITarget target = new Adapter(new Adptee());
             target.NormalPlug();
-
+            //just for fun
         }
     }
 }
