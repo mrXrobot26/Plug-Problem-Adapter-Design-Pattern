@@ -1,0 +1,1 @@
+# Plug Problem Adapter Design Pattern
